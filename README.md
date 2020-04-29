@@ -12,3 +12,4 @@ https://www.airsquirrels.com/reflector
 
 # OBS
 Absolutely
+https://github.com/johnboiles/obs-mac-virtualcam
